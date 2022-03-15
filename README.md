@@ -1,1 +1,1 @@
-# zup-studio-android
+# studiozupmobile-zup-studio-android
